@@ -9,7 +9,6 @@
 <div align="center">
    <strong>STUDENT COGNIZANCE SYSTEM</strong> - A one stop solution for college students<br>
   CoC Inheritance 2022 || ALGOTRON <br> <br>
-  Add any <a href="https://shields.io/">Shields</a> here
 </div>
 <hr>
 
