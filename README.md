@@ -39,13 +39,10 @@ StudCog is a application which acts a communicator or connector between student 
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/vjtiarnav/StudCog)
-- [Demo Video](https://drive.google.com/drive/folders/1q6EPie0CjLcBOpckF6FbCS8QBit0uNEm)
+- [Demo Video](https://drive.google.com/drive/folders/1SZ6RBVdQUoDSxuv_uWM5HXppNFaVeX5F?usp=sharing)
 - [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1qLNNt0EZWr1w--gxJquayXHTTg2jPFFq)
-- [Hosted Website Link]()
 - [App APK Link](https://drive.google.com/file/d/1BgC0cj7Y2nGqWxTUyHevbEwV1PPpRFTs/view?usp=drivesdk)
-- [Hosted Backend Link]()
 
-Add any more links/resources you used for your project
 
 ## 🤖Tech-Stack
 
